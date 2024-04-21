@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: MLproject
+Version: 0.0.0
+Author: bhavya
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
